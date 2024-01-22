@@ -9,7 +9,7 @@ import geopandas
 import geodatasets
 import pointpats
 
-import matplotlibs
+import matplotlib
 matplotlib.use('Agg')
 
 app = Flask(__name__)
